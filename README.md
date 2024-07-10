@@ -1,4 +1,4 @@
-![1](https://github.com/aaditya1-bit/aaditya1-bit/assets/63346548/95985b39-d394-442b-89b0-7b2d07aea572)
+
 
 <h1 align="center">Hi 👋, I'm Aaditya Jha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
