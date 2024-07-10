@@ -1,3 +1,4 @@
+![sukuna](https://github.com/aaditya1-bit/aaditya1-bit/assets/63346548/93e9c9ca-9ddf-4409-99ac-b82bb15f4d21)
 
 
 <h1 align="center">Hi 👋, I'm Aaditya Jha</h1>
